@@ -126,3 +126,24 @@ ul li a{
    
     font-weight: 600;
 }
+.what-i-do-parent{
+    margin: 60px auto;
+    text-align: center;
+}
+.what-i-do-card-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content:space-between;
+    gap: 10px;
+}
+.what-i-do-card-container .what-i-do-card{
+    border: 2px solid #FD6E0A;
+    padding: 8px;
+    border-radius: 8px;
+    text-align: left;
+}
+.what-i-do-card-container .what-i-do-card p{
+    color: rgb(123, 123, 123);
+    font-size: 15px;
+
+}
